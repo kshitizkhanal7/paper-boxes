@@ -10,3 +10,6 @@ Format for instructions
 Choose one design/idea first. Should be simple to make. useful. 
 
 Design aids. Make a javascript webapp for parametric design of boxes. They select the size. The webapp output is a pdf file that makes paper ready to print and cut. Users can only fold and use.  
+
+collect links of good examples
+http://blog.creativebug.com/how-to-fold-a-paper-box/
